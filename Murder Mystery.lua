@@ -1,5 +1,5 @@
 if getgenv and getgenv().IdenticalMM2Unload then
-    pcall(getgenv().IdenticalMM2Unload)
+    pcall(getgenv().IdenticalMM2Unload
 end
 
 local Players = game:GetService("Players")
